@@ -1,0 +1,8 @@
+
+git checkout nome_da_branch
+
+git add caminho_do_arquivo
+
+git commit -m "Mensagem sobre a alteração feita"
+
+git push origin nome_da_branch
