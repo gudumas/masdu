@@ -1,6 +1,6 @@
-git checkout main
+git checkout Gustavo
 
-git pull origin main
+git pull origin Gustavo
 
 git checkout -b feature/comitGustavo
 
