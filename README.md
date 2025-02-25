@@ -1,1 +1,6 @@
-# masdu
+git checkout main
+
+git pull origin main
+
+git checkout -b feature/comitGustavo
+git push origin feature/comitGustavo
